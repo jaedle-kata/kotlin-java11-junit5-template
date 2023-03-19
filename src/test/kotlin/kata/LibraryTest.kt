@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test
 
 class KataTest {
     @Test
-    fun testSomeLibraryMethod() {
+    fun `test some library method`() {
         assertTrue(Library().method())
     }
 }
